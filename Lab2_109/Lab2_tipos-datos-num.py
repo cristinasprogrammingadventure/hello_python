@@ -6,6 +6,9 @@ with open('C:/Users/Buba/Desktop/hello_python/Lab2_109/readme_lab109.md', 'r') a
 # Imprime el contenido del archivo Markdown
 print(markdown_content)
 
+'''Ejercicio 1: números y operaciones báscas de Python'''
+'''Adición y Sustracción'''
+
 # Definimos una Adición con números enteros, o de tipo 'integer'
 add=(2+2)
 print(add)
@@ -20,3 +23,13 @@ print(add)
 print(2 + 2)
 print(4 + 2)
 
+"""Multiplicación y División"""
+
+print(2 * 2)
+print(4 / 2)
+
+
+'''Ejercicio 2: Presentar el tipo de dato entero'''
+
+# usamos la función interna print para ver el texto con los típos de datos en pantalla
+print("Python has three numeric types: int, float, and complex")
