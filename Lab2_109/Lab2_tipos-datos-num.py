@@ -33,3 +33,30 @@ print(4 / 2)
 
 # usamos la función interna print para ver el texto con los típos de datos en pantalla
 print("Python has three numeric types: int, float, and complex")
+
+# Asignar un valor entero a la variable myValue
+myValue = 1
+
+# Imprimir el valor de la variable en la consola
+print(myValue)
+
+# Imprimir el tipo de dato de la variable
+print(type(myValue))
+
+# Convertir el valor y el tipo de dato a cadena y combinarlos en un solo mensaje
+print(str(myValue) + " es del tipo de dato " + str(type(myValue)))
+
+
+"""Ejercicio 3: Presentar el tipo de dato flotante"""
+
+# Asignar un valor flotante a la variable myValue
+myValue = 3.14
+
+# Imprimir el valor de la variable en la consola
+print(myValue)
+
+# Imprimir el tipo de dato de la variable
+print(type(myValue))
+
+# Convertir el valor y el tipo de dato a cadena y combinarlos en un solo mensaje
+print(str(myValue) + " es del tipo de dato " + str(type(myValue)))
