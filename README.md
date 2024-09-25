@@ -1,3 +1,3 @@
-# Basic random Python codes
+# Basic Python codes - miscellanous
 
-Python if-elif-else conditional exercices to compare users ages and print response, basic calculus and functions, some system admin codes, etc.
+Python short codes and exercises, such as counts, if-elif-else conditionals to compare users ages and print response, basic calculus and functions, some system admin codes, function_reduce, etc.
